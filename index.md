@@ -1,6 +1,6 @@
 # Quotation Analysis of Volodymyr Zelenskyy
 
-Our group's research question is: *how does Chinese and US media frame Volodymyr Zelenskyy's quotes?*
+Our group's research question is: *how does Chinese and US media frame Volodymyr Zelenskyy's quotes differently?*
 
 # Methodology
 
